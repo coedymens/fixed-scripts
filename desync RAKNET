@@ -3,7 +3,7 @@ local function hasRaknet()
         and (typeof(raknet.add_send_hook) == "function")
 end
 
-local warning = loadstring(game:HttpGet("https://raw.githubusercontent.com/borthdayzz/boggle.cc/refs/heads/main/other/warning.lua"))()
+local warning = loadstring(game:HttpGet("https://raw.githubusercontent.com/coedymens/fixed-scripts/refs/heads/main/warning.lua"))()
 
 local function showWarning(body)
     warning({
