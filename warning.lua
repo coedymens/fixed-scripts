@@ -1,8 +1,9 @@
 --!optimize 2
 --!native
-
+-- Fixed by coedymens
 -- Made with <3 by Dave
 -- ancestrychanged.com/socials
+print("tiny bug fix by coedymens lol")
 
 return function(userConfig)
     -- if not IB_OBFUSCATED then
